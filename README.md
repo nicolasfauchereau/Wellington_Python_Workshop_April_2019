@@ -11,7 +11,7 @@ The packages listed below can be installed either from the command line (e.g. `c
 + additional packages to read and write excel files (from pandas):
     + `xlrd`
     + `openpyxl`
-    + `excelwriter`
+    + `xlsxwriter`
 
 + additional packages for xarray:
 
